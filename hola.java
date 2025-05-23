@@ -14,7 +14,7 @@ public class hola {
         System.out.println("A");
     }
     public void hola(){
-        
+        System.out.println("fue");
     }
 
     
