@@ -13,6 +13,9 @@ public class hola {
     public void hola2(){
         System.out.println("A");
     }
+    public void hola(){
+        
+    }
 
     
 
